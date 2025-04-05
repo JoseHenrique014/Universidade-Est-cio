@@ -2,10 +2,13 @@
 
 int main() {
   
-    float temperatura = 30.0;
+    float temperatura = 15.0;
 
     if (temperatura >= 30.0){
     printf("Está Calor.\n");
-}    
-    printf("Do lado de fora!\n");
+}   else {
+    printf("Não está calor\n");
 }
+}
+
+    
