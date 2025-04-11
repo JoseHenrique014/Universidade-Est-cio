@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "JOGO_JOKENPO.C": "cpp"
+        "JOGO_JOKENPO.C": "cpp",
+        "IF_IF-ELSE_SWITCH.C": "cpp"
     }
 }
