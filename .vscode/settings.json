@@ -2,5 +2,6 @@
     "files.associations": {
         "JOGO_JOKENPO.C": "cpp",
         "IF_IF-ELSE_SWITCH.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
